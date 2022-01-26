@@ -1,10 +1,4 @@
-/**
- * Copyright 2021
- *
- * All rights reserved.
- *
- * Created on Oct 20, 2021 3:17:43 PM
- */
+
 package com.logstat.service;
 
 import java.io.BufferedReader;
