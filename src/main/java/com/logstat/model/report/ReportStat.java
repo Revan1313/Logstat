@@ -1,10 +1,4 @@
-/**
- * Copyright 2021
- * 
- * All rights reserved.
- * 
- * Created on Oct 29, 2021 3:32:54 PM
- */
+
 package com.logstat.model.report;
 
 import java.util.*;
