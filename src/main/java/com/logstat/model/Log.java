@@ -1,10 +1,4 @@
-/**
- * Copyright 2021
- *
- * All rights reserved.
- *
- * Created on Oct 20, 2021 3:21:09 PM
- */
+
 package com.logstat.model;
 
 import java.time.LocalDateTime;
